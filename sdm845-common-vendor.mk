@@ -98,6 +98,7 @@ PRODUCT_PACKAGES += \
     CNEService \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
+    OPNetworkSetting \
     NxpNfcNci \
     NxpSecureElement \
     dpmserviceapp \
